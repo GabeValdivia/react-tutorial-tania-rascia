@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/GabeValdivia/react-tutorial-tania-rascia.git/static/css/main.40c89141.chunk.css",
-    "main.js": "/GabeValdivia/react-tutorial-tania-rascia.git/static/js/main.9ef552d5.chunk.js",
-    "main.js.map": "/GabeValdivia/react-tutorial-tania-rascia.git/static/js/main.9ef552d5.chunk.js.map",
-    "runtime-main.js": "/GabeValdivia/react-tutorial-tania-rascia.git/static/js/runtime-main.c6f8dfe1.js",
-    "runtime-main.js.map": "/GabeValdivia/react-tutorial-tania-rascia.git/static/js/runtime-main.c6f8dfe1.js.map",
-    "static/js/2.fff4b2ee.chunk.js": "/GabeValdivia/react-tutorial-tania-rascia.git/static/js/2.fff4b2ee.chunk.js",
-    "static/js/2.fff4b2ee.chunk.js.map": "/GabeValdivia/react-tutorial-tania-rascia.git/static/js/2.fff4b2ee.chunk.js.map",
-    "index.html": "/GabeValdivia/react-tutorial-tania-rascia.git/index.html",
-    "static/css/main.40c89141.chunk.css.map": "/GabeValdivia/react-tutorial-tania-rascia.git/static/css/main.40c89141.chunk.css.map",
-    "static/js/2.fff4b2ee.chunk.js.LICENSE.txt": "/GabeValdivia/react-tutorial-tania-rascia.git/static/js/2.fff4b2ee.chunk.js.LICENSE.txt"
+    "main.css": "/react-tutorial-tania-rascia/static/css/main.40c89141.chunk.css",
+    "main.js": "/react-tutorial-tania-rascia/static/js/main.9ef552d5.chunk.js",
+    "main.js.map": "/react-tutorial-tania-rascia/static/js/main.9ef552d5.chunk.js.map",
+    "runtime-main.js": "/react-tutorial-tania-rascia/static/js/runtime-main.dc5bbe54.js",
+    "runtime-main.js.map": "/react-tutorial-tania-rascia/static/js/runtime-main.dc5bbe54.js.map",
+    "static/js/2.fff4b2ee.chunk.js": "/react-tutorial-tania-rascia/static/js/2.fff4b2ee.chunk.js",
+    "static/js/2.fff4b2ee.chunk.js.map": "/react-tutorial-tania-rascia/static/js/2.fff4b2ee.chunk.js.map",
+    "index.html": "/react-tutorial-tania-rascia/index.html",
+    "static/css/main.40c89141.chunk.css.map": "/react-tutorial-tania-rascia/static/css/main.40c89141.chunk.css.map",
+    "static/js/2.fff4b2ee.chunk.js.LICENSE.txt": "/react-tutorial-tania-rascia/static/js/2.fff4b2ee.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c6f8dfe1.js",
+    "static/js/runtime-main.dc5bbe54.js",
     "static/js/2.fff4b2ee.chunk.js",
     "static/css/main.40c89141.chunk.css",
     "static/js/main.9ef552d5.chunk.js"
